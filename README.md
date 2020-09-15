@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Had a few odd issues with installing the new version of Android Studio, notably getting the AVD working (had to rename a weird file named "05-reset-dirs-sample.conf", don't ask). Also, I found out on the 14th that the due date had been bumped up a day, so that was a surprise.
+Also, recording the gif turned out to be a pain. All I needed was to use ```sudo dnf install ffmpeg -y``` to get Peek to work, but it took me a while to figure that out.
 
 ## License
 
