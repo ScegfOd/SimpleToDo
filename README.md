@@ -4,7 +4,7 @@
 
 Submitted by: **Jonathan Combs**
 
-Time spent: **about 3** hours spent in total
+Time spent: **about 4** hours spent in total
 
 ## User Stories
 
