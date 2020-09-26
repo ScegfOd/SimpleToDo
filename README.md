@@ -4,7 +4,7 @@
 
 Submitted by: **Jonathan Combs**
 
-Time spent: **about 4** hours spent in total
+Time spent: **about 4.5** hours spent in total
 
 ## User Stories
 
@@ -16,11 +16,11 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Screen looks good sideways
 
 ## Video Walkthrough
 
@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Had a few odd issues with installing the new version of Android Studio, notably getting the AVD working (had to rename a weird file named "05-reset-dirs-sample.conf", don't ask). Also, I found out on the 14th that the due date had been bumped up a day, so that was a surprise.
 Also, recording the gif turned out to be a pain. All I needed was to use ```sudo dnf install ffmpeg -y``` to get Peek to work, but it took me a while to figure that out.
+Edit: finally found a half-hour to switch the main activity to RelativeLayout and make it not terrible when tilted sideways. (and re-record the gif)
 
 ## License
 
