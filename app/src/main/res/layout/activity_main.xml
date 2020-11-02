@@ -10,7 +10,7 @@
         android:id="@+id/btnadd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Add"
+        android:text="@string/add"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"/>
 
@@ -22,7 +22,7 @@
         android:layout_alignBottom="@id/btnadd"
         android:layout_alignStart="@id/todolist"
         android:layout_toStartOf="@+id/btnadd"
-        android:hint="Type new ToDo here!" />
+        android:hint="@string/type_new_todo_here" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/todolist"
